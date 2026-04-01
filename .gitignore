@@ -1,0 +1,16 @@
+# Unreal Engine - carpetas generadas automaticamente
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio
+.vs/
+*.sln
+*.suo
+*.user
+
+# Carpetas de plugins compilados (se regeneran)
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
